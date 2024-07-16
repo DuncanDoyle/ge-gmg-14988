@@ -1,7 +1,8 @@
 # GMG 14988 Reproducer on Gloo Edge
  
-https://github.com/solo-io/gloo-mesh-enterprise/issues/14988
+Gloo Mesh Gateway issue: https://github.com/solo-io/gloo-mesh-enterprise/issues/14988
 
+Gloo Gateway issue: https://github.com/solo-io/gloo/issues/9768
 
 ## Installation
 
